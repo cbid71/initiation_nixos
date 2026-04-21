@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 48">
+  <!-- Fond aux couleurs NixOS -->
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#4f73bd"/>
+      <stop offset="100%" stop-color="#7ebae4"/>
+    </linearGradient>
+  </defs>
+  <rect width="48" height="48" rx="10" fill="url(#bg)"/>
+
+  <!-- Logo NixOS (flocon 6 branches) simplifié -->
+  <!-- Branche 1 : haut -->
+  <polygon points="24,6 27,11 21,11" fill="white" opacity="0.95"/>
+  <!-- Branche 2 : haut-droite -->
+  <polygon points="38,14 35.5,19 32.5,14" fill="white" opacity="0.95"/>
+  <!-- Branche 3 : bas-droite -->
+  <polygon points="38,34 32.5,34 35.5,29" fill="white" opacity="0.95"/>
+  <!-- Branche 4 : bas -->
+  <polygon points="24,42 21,37 27,37" fill="white" opacity="0.95"/>
+  <!-- Branche 5 : bas-gauche -->
+  <polygon points="10,34 12.5,29 15.5,34" fill="white" opacity="0.95"/>
+  <!-- Branche 6 : haut-gauche -->
+  <polygon points="10,14 15.5,14 12.5,19" fill="white" opacity="0.95"/>
+
+  <!-- Hexagone central -->
+  <polygon points="24,16 29,19 29,29 24,32 19,29 19,19" fill="white" opacity="0.15"/>
+
+  <!-- Petit pingouin au centre -->
+  <text x="24" y="27" font-size="13" text-anchor="middle" font-family="sans-serif">🐧</text>
+</svg>

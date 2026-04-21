@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=Hello NixOS
+Comment=Petite app de démo NixOS
+Exec=hello-nix
+Icon=hello-nix
+Terminal=false
+Type=Application
+Categories=Utility;
