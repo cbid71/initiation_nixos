@@ -1,0 +1,7 @@
+result
+flake.lock
+
+configuration.nix
+custom.nix
+hardware.nix
+hardware-configuration.nix
