@@ -1,6 +1,6 @@
 # Tutorial NixOS
 
-> ⚠️ **Work in progress**
+> ⚠️ **Review in progress**
 
 ![nixos_logo.png](./pictures/nixos_logo.png)
 
